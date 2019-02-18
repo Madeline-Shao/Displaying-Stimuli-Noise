@@ -1,3 +1,4 @@
+%@author: Madeline Shao
 try
     %noise=darkness_range*randn(size(mask)./block_size); %or apply mask after noise
     %noise=imresize(noise,block_size,'nearest'); %nearest neighbor interpolation
